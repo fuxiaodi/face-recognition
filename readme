@@ -1,0 +1,4 @@
+Use a pre-trained ResNet to extract facial features.
+Every face is represented by a 256-dimensional vecotor.
+Use kNN to train and predict identities of people according to their facial features
+Use softmax classifier to train and predict identities of people according to facial features.
